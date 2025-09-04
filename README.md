@@ -2,7 +2,7 @@
 
 ShopEZ is a modern, full-stack e-commerce application built with the MERN stack (MongoDB, Express, React, Node.js) and Vite. It features a complete customer-facing storefront and a secure seller dashboard for managing products and orders.
 
-**Live Demo:** [https://shopez-adityadubey98.vercel.app/](https://shopez-adityadubey98.vercel.app/)
+**Live Demo:** [https://shop-ez-zeta.vercel.app/](https://shop-ez-zeta.vercel.app/)
 
 ---
 
